@@ -11,5 +11,5 @@ int main()
         scanf("%d",&marks);
     }
     printf("\nSum =%d",sum);
-    printf("\naverage =%.2f",(float)sum/student);
+    printf("\n average =%.2f",(float)sum/student);
 }
